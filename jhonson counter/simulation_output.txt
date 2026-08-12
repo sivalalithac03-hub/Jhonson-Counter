@@ -1,0 +1,9 @@
+Time=0  | Johnson Counter = 0000
+Time=15 | Johnson Counter = 1000
+Time=25 | Johnson Counter = 1100
+Time=35 | Johnson Counter = 1110
+Time=45 | Johnson Counter = 1111
+Time=55 | Johnson Counter = 0111
+Time=65 | Johnson Counter = 0011
+Time=75 | Johnson Counter = 0001
+Time=85 | Johnson Counter = 0000
